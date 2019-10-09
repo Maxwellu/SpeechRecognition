@@ -8,7 +8,7 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 MAPPING_DIR = os.path.join(ROOT_DIR, "mapping")
 
 # 音频文件根目录
-DATA_DIR = "/Users/Maxwell_Lu/Documents/上海小轩信息科技有限公司/宝信软件/审计项目/audio_data"
+DATA_DIR = "/Users/Maxwell_Lu/Documents/audio_data"
 
 # 是否使用数据集
 THCHS30 = True
