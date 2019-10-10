@@ -92,6 +92,6 @@ class Predict:
 
 
 if __name__ == "__main__":
-    fs = "/Users/Maxwell_Lu/Documents/上海小轩信息科技有限公司/宝信软件" \
-         "/审计项目/audio_data/data_thchs30/train/A11_1.wav"
+    fs = "/Users/Maxwell_Lu/Documents/" \
+         "/audio_data/data_thchs30/train/A11_1.wav"
     Predict(fs).run()
